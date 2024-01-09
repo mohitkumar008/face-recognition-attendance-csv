@@ -49,7 +49,6 @@ This Python project implements a face recognition attendance system. The system 
    ```bash
    python3 faceRecognition.py
 
-
 # License
 
 ## This project is licensed under the MIT License.
